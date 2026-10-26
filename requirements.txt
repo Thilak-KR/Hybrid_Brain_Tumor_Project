@@ -1,0 +1,16 @@
+# Core MRI loading, feature extraction, and dataset building
+numpy
+nibabel
+
+# Classical model training and validation
+pandas
+scikit-learn
+joblib
+
+# Visualization and CLAHE preprocessing utility
+matplotlib
+opencv-python
+
+# Synapse-based dataset download utilities
+requests
+synapseclient
